@@ -1,0 +1,410 @@
+﻿Ricardo Sisnett: Yeah.
+Cyprien Pannier: Hello, everyone.
+Deividas Karžinauskas: Okay.
+Philippe Diep: Hello, everyone.
+Ricardo Sisnett: Hey. I How got are it.
+Balki Kodarapu: Hi, everyone.
+Mark Tyrrell: Hi.
+Juan Carlos Quintero: Hello.
+Ricardo Sisnett: you Thanks, doing, man?
+Girish Rao: Woah.
+Deividas Karžinauskas: Okay.
+Ricardo Sisnett: Ravi.
+Jaya Sistla: Hi.
+Ricardo Sisnett: It seems it seems like it's now unstable.
+Girish Rao: Yeah.
+Mark Tyrrell: I'm Mark Terrell.
+Philippe Diep: So my name is Philip Gip.
+Jaya Sistla: I'm good.
+Girish Rao: You got that.
+Balki Kodarapu: Can you hear me?
+Pawel Maciejewski: Hello.
+Jaya Sistla: Thank you.
+Juan Carlos Quintero: Hi.
+Girish Rao: Perfect.
+Cristian Adamo: Yeah.
+Jaya Sistla: I'm so sorry.
+Cristian Adamo: Argentina.
+Philippe Diep: I'm based in Paris.
+Vishal Sadhnani: Sounds good.
+Girish Rao: Thanks, Andrew.
+Pawel Maciejewski: Hi.
+Jaya Sistla: I'm late.
+Mark Tyrrell: I'm unlike my accent would suggest based in Austin, Texas.
+Juan Carlos Quintero: Hey.
+Julien Kernec'h: Hello.
+Juan Carlos Quintero: Good.
+Balki Kodarapu: Okay. Yeah.
+Julien Kernec'h: Hi, everyone.
+Cristian Adamo: Yeah.
+Philippe Diep: So as some of the as in the call, I'm working at Georgios.
+Vishal Sadhnani: Yeah. I'm based I'm in Mountain View.
+Balki Kodarapu: So, yeah, my name is Balke.
+Cristian Adamo: Yeah.
+Pawel Maciejewski: I'm calling you from Poland.
+Cristian Adamo: So hi, everyone.
+Ricardo Sisnett: So, yeah, I'm I'm Ricardo Last Suzette.
+Deividas Karžinauskas: Yep.
+Cyprien Pannier: Meeami, yes, from a social friends.
+Vishal Sadhnani: So Silicon Valley.
+Cristian Adamo: Yeah.
+Balki Kodarapu: I'm based out of Portland, Oregon.
+Cristian Adamo: My name is Christian Animal.
+Girish Rao: Oh, nice.
+Juan Carlos Quintero: Both are are okay.
+Ricardo Sisnett: time I go.
+Mark Tyrrell: I've been here sixteen years.
+Deividas Karžinauskas: Yep.
+Ricardo Sisnett: I am originally from Mexico.
+Deividas Karžinauskas: Sweet.
+Cristian Adamo: So I'm currently a leading an AI team in JPMorgan.
+Balki Kodarapu: Currently work for a company called the support support logic.
+Philippe Diep: Doing full full stack with the rooms full stack development.
+Ricardo Sisnett: Right now, no.
+Julien Kernec'h: I'm going from San Francisco.
+Ricardo Sisnett: I am Mexico.
+Juan Carlos Quintero: Are suitable.
+Girish Rao: Yeah.
+Ricardo Sisnett: I am now the No.
+Mark Tyrrell: Was that Home Way that was a Austin start up known known as Vrbo, which IPO, no one's acquired by Expedia.
+Girish Rao: My name is Grace.
+Juan Carlos Quintero: So yeah.
+Ricardo Sisnett: leading I am engineer.
+Girish Rao: I'm currently based outside of Philadelphia.
+Julien Kernec'h: And just as a heads up for everybody, I'm I'm Julian.
+Ricardo Sisnett: in Mexico I have a right small now.
+Juan Carlos Quintero: Of course.
+Pawel Maciejewski: Hi.
+Ricardo Sisnett: start up in Denmark.
+Pawel Maciejewski: It's middle of Noah, but Noah Pawan.
+Cristian Adamo: And, basically, my experience, I have been working on multiple start ups, b to b, b to c, and have done.
+Balki Kodarapu: We're a series b company based out of the valley.
+Deividas Karžinauskas: Yeah.
+Philippe Diep: And so when I joined, gorgeous has been working on the chat widget.
+Cyprien Pannier: Hopefully.
+Deividas Karžinauskas: So, hey, everyone.
+Ricardo Sisnett: It's called Making Model AI, and making we build the track to GDC next week, sir.
+Girish Rao: I lived in New York and Seattle in the past.
+Jaya Sistla: K.
+Deividas Karžinauskas: Nice to meet you, guys.
+Julien Kernec'h: I'm from Zuplato.
+Juan Carlos Quintero: From Munich, calling from from Munich.
+Balki Kodarapu: We provide insights to support managers so they can reduce churn, increase customer satisfaction, etcetera.
+Deividas Karžinauskas: I'm from Alifanya originally.
+Julien Kernec'h: I'm zero engineering.
+Girish Rao: I'm originally Canadian.
+Jaya Sistla: I live in Austin.
+Ricardo Sisnett: machine learning kinda like power tools for game developers.
+Julien Kernec'h: And since those are all for session, I'm just participating to make sure everything is is working as expected.
+Mark Tyrrell: Now I work at Procore, which is another older start up, twenty year old start up based in Southern California that builds software for the construction industry.
+Cyprien Pannier: Cool. Yeah.
+Girish Rao: I currently work at a company called DBT Labs.
+Pawel Maciejewski: Nice to meet you.
+Deividas Karžinauskas: And still and currently working at ChingLink.
+Cyprien Pannier: It is.
+Jaya Sistla: Yeah.
+Philippe Diep: So there were some WebSocket servers to to set up and scalability issues to to sold.
+Ricardo Sisnett: A lifetime ago, Home I used in to work with this Guadalajara.
+Pawel Maciejewski: Hey.
+Juan Carlos Quintero: Yes.
+Pawel Maciejewski: Hello.
+Juan Carlos Quintero: Exactly.
+Cristian Adamo: Basically, cover the full stack so to speak, I'm a channelist.
+Jaya Sistla: Eleven?
+Juan Carlos Quintero: Yeah.
+Ricardo Sisnett: guy at Drive Games.
+Girish Rao: We are the primary maintainers, contributors to the DBT core, source project you may have heard of.
+Deividas Karžinauskas: I worked so previously, I only worked at one of our super com startup for almost three years.
+Pawel Maciejewski: So, yeah, a bit about me.
+Ricardo Sisnett: Tamil, it'll be outside in And smaller then town even code, before like a pocket, that, but the it's city is the I metric grew up stone in Mexico I grew is up called in?
+Juan Carlos Quintero: What about you?
+Jaya Sistla: Yeah.
+Julien Kernec'h: So if you have any feedbacks, any questions about better all the products, please feel free to to reach out to me.
+Balki Kodarapu: Using some ML and AI magic.
+Pawel Maciejewski: I'm working currently gorgeous.
+Juan Carlos Quintero: Where where are you from?
+Cristian Adamo: So I'm working front end, back end, whatever you you call it.
+Philippe Diep: And, also, since then, I've been working on the head head center project.
+Pawel Maciejewski: Some other people here in the meeting.
+Ricardo Sisnett: the Mexican Silicon Valley, so I got a chance to work in in a few big names.
+Girish Rao: So we're in the kind of data analytics space.
+Mark Tyrrell: And we friend and I pitched some pivots around reference architecture last year.
+Cristian Adamo: And, yeah, I have been working with the big data AI.
+Jaya Sistla: Hi, everyone.
+Pawel Maciejewski: And formal position is stop engineer.
+Deividas Karžinauskas: And I've been enjoying, like, I've been enjoying for a little bit over two years before I've been asked to So following the Oktopost team together for the CTO.
+Jaya Sistla: I'm good. Thank you.
+Juan Carlos Quintero: Okay.
+Cyprien Pannier: Yes. So I'm basically, I have similar experience than on Carlos because we work in the in the same company.
+Ricardo Sisnett: So I worked for Oracle for a little bit and then Intel and IBM K.
+Juan Carlos Quintero: Okay.
+Girish Rao: And my background, virtually, is in start ups.
+Jaya Sistla: I'm Jaya Systla.
+Cristian Adamo: We more recently, and that's the space where I'm focusing on.
+Philippe Diep: And a particular team, gorgeous, that we easily had the opportunity to have a strong ownership over all of our projects.
+Jaya Sistla: I work for Cisco as an engineering manager.
+Balki Kodarapu: Andrew, do you have a couple more minutes to hang on?
+Juan Carlos Quintero: Oh, okay.
+Girish Rao: Kind of series a, series b, and and this is probably the largest start up of Workday.
+Ricardo Sisnett: before that.
+Juan Carlos Quintero: I'm very early in there.
+Ricardo Sisnett: So I've been a little bit all over the stack We can in have in all different this industries, this whole thing and Spanish now stuff.
+Cristian Adamo: And, also, I I did a little bit of of a blockchain one of the previous companies, we build a application from scratch, and, basically, we launch it as a new new sort of company.
+Julien Kernec'h: I'm sorry?
+Balki Kodarapu: Okay.
+Mark Tyrrell: And we we kinda got through the elevator pitch, and then you kind of get this.
+Balki Kodarapu: Others can stay too.
+Vishal Sadhnani: Sure.
+Jaya Sistla: I made this transition recently, from a senior site reliability engineer to an engineering manager.
+Vishal Sadhnani: Yeah.
+Pawel Maciejewski: But I'm I'm a front end guy.
+Balki Kodarapu: It's a philosophical question.
+Vishal Sadhnani: Hi.
+Cyprien Pannier: Gotcha.
+Vishal Sadhnani: I'm Michel.
+Cyprien Pannier: So I'm also so so I sent off software engineer and work on full stack projects.
+Vishal Sadhnani: I've been in the industry for almost twenty years now.
+Andrew McVeigh: Hi.
+Ricardo Sisnett: trying to figure out how to lead a team of around fifteen Nice.
+Julien Kernec'h: I'm in San Francisco in Japantown.
+Andrew McVeigh: One.
+Pawel Maciejewski: Sorry.
+Balki Kodarapu: So in terms of a mistake number one, you know, rewrite, that's like a story of my life.
+Andrew McVeigh: How are you doing?
+Deividas Karžinauskas: So Gillink is focused.
+Juan Carlos Quintero: Hello?
+Girish Rao: Also spent a few years at AWS in between there and had transitioned transitioned from an engineer to an EM role while there.
+Andrew McVeigh: Did you is your name one or one colors?
+Pawel Maciejewski: So there's there's JavaScript in my heart, and But I do have bug and experience.
+Ricardo Sisnett: engineers, you know, as we get into, like, our first v one and all that.
+Mark Tyrrell: And now what moment were you like?
+Deividas Karžinauskas: Gillink is crypto company focused on vision of chained to on chained data.
+Philippe Diep: So it means that we have a strong decision power over the architectural decisions that we are taking for each and every project.
+Vishal Sadhnani: Like, my part of Google Google Maps to be precise.
+Mark Tyrrell: Well, how does this actually translate into executable change.
+Jaya Sistla: So this this course is very important for me.
+Ricardo Sisnett: So I think it's kinda like important to learn how to set up a a long term vision now that we're we we have kinda, like, a a road ahead of us.
+Cyprien Pannier: And, yeah, I'm I'm interested in this this course because I'm writing to the this project where I have to build, like, a multi probably multiyear's project that I want to make sure that it's it's done right and with the right people involved, etcetera.
+Cristian Adamo: And, yeah, more recently, I have been, for at least, for the past few years, have been more focusing on execution and a little bit of a strategy.
+Balki Kodarapu: Right?
+Vishal Sadhnani: Yeah.
+Balki Kodarapu: So even like the smartest, most practical engineers come to me and say, bulky, we have to rewrite this.
+Vishal Sadhnani: It's like and I've been part of a lot of startups.
+Juan Carlos Quintero: Okay.
+Pawel Maciejewski: So I've been working as a Skype developer, Python developer, Node JS developer, also in my past somewhere like in the middle of this road.
+Jaya Sistla: The circle is very important for me to build strategy for my team to better support them.
+Deividas Karžinauskas: And we we have at platform play currently that you're looking to sort of go with which requires us to extend the Artesh should we currently have in a way that makes it scalable and so if it's sensible using third party extensions while simultaneously keeping it secure and robust as it has a fill at this point just because it scares billions of value.
+Mark Tyrrell: So that's why I'm here.
+Vishal Sadhnani: Like, you know, most of my career has gone into startups, and I've seen everything from, like, I would say, free see to see this edge and everything in between.
+Girish Rao: And, yeah, currently leading kind of a core platform group, and we are basically kind of replatform the existing product.
+Mark Tyrrell: I wanna learn all about how you've done that, Andrew, or everyone else, and Excited to be here.
+Andrew McVeigh: Where where are you dialing in from?
+Philippe Diep: So really curious to learn more about sort of this in this course.
+Cristian Adamo: So now that I have a a more senior role, I wanted to basically get more knowledge on into how to do really technical vision, how to set up strong strategies and something that all the stuff that I did was, obviously, probably quite basic, and I I need to to learn more about how to set up a strong strategy.
+Jaya Sistla: So, yeah, I'm very excited.
+Balki Kodarapu: There's no other you know, clean lab environment, greenfield, you know, any terms that you can use.
+Andrew McVeigh: Okay. So I'm guessing it's about 5PM.
+Vishal Sadhnani: So I've seen a lot of startups, and Google is definitely a a big change for me.
+Mark Tyrrell: So thank you.
+Pawel Maciejewski: I I decided that, yeah, JavaScript is is the shit.
+Philippe Diep: Thank you.
+Andrew McVeigh: Yeah.
+Balki Kodarapu: Like, I always get stuck.
+Andrew McVeigh: Yeah. Yeah.
+Mark Tyrrell: I was born in Leads, but I mostly grew up in the South.
+Vishal Sadhnani: But it's been a one and a half years here, but you know, this thing with the bigger org, there are challenges and how do you build a vision and, you know, make it work with so many different, you know, interest and, you know, teams.
+Julien Kernec'h: Yes.
+Pawel Maciejewski: So, yeah, this this this this whole topic of creating like, vision that will last is is is very important for me because, like, currently, we are facing some some interesting changes on the front and part of the goja's.
+Balki Kodarapu: Like, this person or this group of individuals are so smart if they're saying that there has to be some truth to it.
+Girish Rao: And so I'm I'm really curious about kind of the technical strategy side of it, but also just kind of, like, how do you, you know, conflict management and, like, communicating a strategy, bring stakeholders along?
+Mark Tyrrell: So Yeah.
+Philippe Diep: And the base in Paris.
+Andrew McVeigh: I I live from in a beach town outside of Los Angeles called Melbourne.
+Julien Kernec'h: No. No. I did go. So I'm Julian, so I'm the head of engineering at Peru.
+Mark Tyrrell: I was in Dorset in West Sussex.
+Balki Kodarapu: And almost every time I have to break apart their logic and tell them the side news that, no.
+Andrew McVeigh: So I'm on the West Coast to the market.
+Julien Kernec'h: So it's a very platform we are using.
+Vishal Sadhnani: And that's why I'm here.
+Mark Tyrrell: Lived in London a few times.
+Cristian Adamo: For for my team.
+Andrew McVeigh: You recovered.
+Julien Kernec'h: I'm working as an observer, but I'm also very interested by the topic.
+Vishal Sadhnani: To be part of this thing.
+Girish Rao: Definitely finding challenges there as well.
+Deividas Karžinauskas: So that's fine point.
+Mark Tyrrell: Managed to finally escape the UK.
+Juan Carlos Quintero: Actually, I'm from Yeah.
+Balki Kodarapu: We're not doing it.
+Andrew McVeigh: Yeah. Yeah. Yeah.
+Deividas Karžinauskas: That's me.
+Andrew McVeigh: Oh, it's not there.
+Balki Kodarapu: Right?
+Mark Tyrrell: So Yeah.
+Girish Rao: So yeah.
+Balki Kodarapu: So did you find a good way to approach that?
+Julien Kernec'h: I've been engineering leader for the past twelve years, most CSCTO from any friends.
+Andrew McVeigh: That's a good cover.
+Juan Carlos Quintero: Actually, I'm from from Venezuela, so it's also Latin America.
+Girish Rao: Thanks.
+Pawel Maciejewski: We are exploring things like splitting the code base, that is now largely monolithic into smaller parts and delegating those things into into Teams and and and all those things like I I doubt very much relevant for me.
+Mark Tyrrell: I know. I'm sad about that.
+Balki Kodarapu: Like, what's your philosophy, generally, that an engineer's guide?
+Cristian Adamo: We have multiple projects.
+Mark Tyrrell: After Game of Thrones, I always tell people that's I sounded like when I was, like, three or four years old.
+Deividas Karžinauskas: Yeah.
+Andrew McVeigh: Oh, yeah.
+Cristian Adamo: So it's it's kind of difficult.
+Andrew McVeigh: I used to work I used to work with Ricardo and Roy again.
+Deividas Karžinauskas: Yeah. We are currently the number one article.
+Julien Kernec'h: I know very well girl, judge, by the way.
+Juan Carlos Quintero: Yeah.
+Cristian Adamo: Each one of them have their own stakeholders.
+Juan Carlos Quintero: But calling from from Munich.
+Julien Kernec'h: They have good friends. Or Omar is a good very good friend.
+Cristian Adamo: Also, some of those stakeholders have delegates, and then some some projects in stakeholders, I mean, quite often.
+Mark Tyrrell: You know?
+Deividas Karžinauskas: In in in crypto. So, like, effectively, any crypto project is using or any big crypto project They'll actually all top ten credit projects are using Gmail.
+Juan Carlos Quintero: Yeah.
+Andrew McVeigh: Are you are you actually in Denmark?
+Julien Kernec'h: And so when from food delivery companies to one of the largest website creator in France, Europages, to stop my own company in France.
+Andrew McVeigh: Are you in Denmark?
+Cristian Adamo: So priority change, direction change, and that's really chaotic.
+Andrew McVeigh: Oh, okay. Whereabouts?
+Pawel Maciejewski: So I'm super excited that I can I can be here with all of you?
+Cristian Adamo: I mean, it's really difficult to to work in that way.
+Deividas Karžinauskas: So, thankfully, if you're building anything real world, you might you're most likely using Gmail.
+Julien Kernec'h: They are ones which was a non digital communication for mostly banks and insurance.
+Cristian Adamo: And also, there's I think I does as Ricardo was saying, there's no sort of sense of really standardizing processes across the firm.
+Andrew McVeigh: Oh, yeah.
+Pawel Maciejewski: And, yeah, let's make it happen.
+Andrew McVeigh: No. It's what whereabouts are you there?
+Julien Kernec'h: So very large companies and I joined Peru in to San Francisco for an a few years ago.
+Andrew McVeigh: Yeah.
+Cristian Adamo: So it seems that right, it has something more more strong, but in And here, JPMorgan is, like, basically, everything do whatever they want, whatever it works for them.
+Julien Kernec'h: And very interesting, this topic, I think, for assist you and especially when we are starting a company or taking a company with a very small team, it's really important to take the right decision to allow us to to scale, but also making sure that the decision multiple will not be expensive mistakes.
+Andrew McVeigh: Yeah. Yeah. No.
+Juan Carlos Quintero: Yes.
+Cristian Adamo: That even create more difficult.
+Ricardo Sisnett: That's that's a good question.
+Cristian Adamo: So it's setting strategy, you will find that perhaps some people have couple bullet points.
+Ricardo Sisnett: So I think It partially influences it quite a bit. Like, I spent six years of pride, and it was kinda, like, when I mature a little bit from, like, junior to senior junior.
+Cristian Adamo: Some of them will have just something someone have that in their mind, and that's it.
+Andrew McVeigh: Hi, Subram.
+Juan Carlos Quintero: Yes.
+Cristian Adamo: Or or PPT.
+Juan Carlos Quintero: Sure.
+Julien Kernec'h: So, hopefully, we learned from what are you guys in from your end of Yes.
+Cristian Adamo: Everything is PPT based, so you will inspect everything right in on that PPT.
+Ricardo Sisnett: So it, of course, dictates a lot of how I think about software.
+Juan Carlos Quintero: So let's see where where I should start.
+Cristian Adamo: So it's quite difficult then to find or understand or whatever if you want to get more details there's no really a culture of Air to Sea or anything like that.
+Andrew McVeigh: Where are you calling in from? You're calling in from Europe somewhere?
+Juan Carlos Quintero: I'm from Venezuela, and then I moved fierce to to euro wide, and there I worked for, like, a first, like, a software company, like a software factory company from, yeah, from the region called Globant, and then for a start up in San Francisco.
+Ricardo Sisnett: So I think, you know, there's there's some stuff I've have to narrate, I think, as you said, there there were some weird politics that I'm I'm trying to figure out how to navigate.
+Andrew McVeigh: Oh, okay. Nice.
+Cristian Adamo: We're trying to do that on our team, but it's it's very difficult.
+Andrew McVeigh: With which part? Which particular talent?
+Ricardo Sisnett: Model is is very technical.
+Cristian Adamo: It's very difficult those ways.
+Julien Kernec'h: All good.
+Andrew McVeigh: Well, I know it.
+Ricardo Sisnett: So we're around thirty people, but seventeen are in the engineering team.
+Cristian Adamo: Everything is political.
+Andrew McVeigh: I had friends from it.
+Cristian Adamo: Everything is political.
+Andrew McVeigh: It's lovely.
+Cristian Adamo: I mean, it's not that much technical.
+Ricardo Sisnett: So that gives me a lot of, like, wait to throw around.
+Cristian Adamo: So we at least my job is basically shield all those robotic process from the team so that I need to deal with those.
+Ricardo Sisnett: So trying to figure out how to because you were saying sometimes you can even use the eight or some of the not so good dynamics in your favor.
+Andrew McVeigh: Hi, Julian.
+Juan Carlos Quintero: And after that, I moved to Germany and worked for work for a couple of German companies.
+Cristian Adamo: But that is not this it's not easy.
+Andrew McVeigh: Where where are you calling in from?
+Ricardo Sisnett: So I think it's it's Frank to to learn how to apply that.
+Juan Carlos Quintero: One in Berlin and then one in Munich.
+Ricardo Sisnett: You know, I think some of the stuff that we were discussing, like, IFC process and some of that, I have basically just just copy paste it at model, and it it has been very successful in some firms.
+Juan Carlos Quintero: And, yeah, at the moment, after ten years of software development, of software engineering, I'm working at gorgeous. Also a company from from the US, but with a base also in Europe.
+Ricardo Sisnett: But, yeah, I think I even I even said that in my interviewing process with models, like, I'm I'm gonna bring a lot of stuff from riot because it it really tain to me or influence me.
+Juan Carlos Quintero: And, yeah, I think for now, like, my my focus has been, like, yeah, full stack engineering, API is front end.
+Ricardo Sisnett: So I think, you know, a lot of the stuff you're saying is just is just kinda, like, replicating some of the things I say.
+Andrew McVeigh: Hey, Douglas. Thanks, June. Hey, Douglas. How are you?
+Juan Carlos Quintero: Mostly, these days is react. No GS. That's, I would say, pretty much about me.
+Andrew McVeigh: David desk is calling from Lithuania. Hi, Pavel. Where where are you calling us from?
+Juan Carlos Quintero: It's it's a help desk for focus on e commerce.
+Andrew McVeigh: Oh, okay.
+Juan Carlos Quintero: So, like, partners for of Shopify, but also we are looking to to her side by help desk.
+Andrew McVeigh: No worries. Which particular part? Okay.
+Juan Carlos Quintero: So chats like chat, help center -- Yeah.
+Andrew McVeigh: Hey, Vishal. Yeah. Nice to meet you too.
+Juan Carlos Quintero: -- that that kind of business.
+Andrew McVeigh: We just start getting set up and waiting for a few people before we start.
+Cristian Adamo: Oh, yeah.
+Balki Kodarapu: Yeah.
+Andrew McVeigh: Where were you calling from, Michel?
+Balki Kodarapu: Yeah. There's a very small delay. But, yeah, that that all makes sense.
+Andrew McVeigh: Okay.
+Balki Kodarapu: I have some specific questions. I'm I'm sure we'll bring this topic up in our future sessions too.
+Andrew McVeigh: I'll say just everyone knows I'm on the West Coast of America.
+Cristian Adamo: Yeah. Yeah. Mainly because everyone wants to see value. Right? And everyone wants to see stuff done and working with even on data science project is more difficult.
+Balki Kodarapu: I yeah.
+Andrew McVeigh: So it's saying times out of San Francisco and all that.
+Balki Kodarapu: Are you a mentor on Playto, Andrew?
+Andrew McVeigh: For some reason, it's been incredibly cold here.
+Cristian Adamo: Right? They have a lot of iterations, a lot of things need to happen. So it's also really difficult to deal with those cases where every data science that are not used to have sort of processes around what their buildings so that they are expected to just run for those until they find a solution, which even become more difficult because it's like you cannot predict that much when things will be done or anything like that.
+Andrew McVeigh: Just be raining constantly on. It's not where you could've came up, haven't you?
+Juan Carlos Quintero: Probably, maybe I can I can put my two cents? Well, I mean, actually, like, the the team that I'm working on is, like, the the chart of the widget.
+Balki Kodarapu: Yeah.
+Andrew McVeigh: One, two, six. I got one, two, three, four, Hi, John.
+Juan Carlos Quintero: So, like, this this project has been for for a while, meaning for for for start up, like, origins.
+Cristian Adamo: Even though from our side, we'll try to put some sort of call rules and and set up some expect it's really difficult.
+Balki Kodarapu: Yes. Cool. Yeah. Yeah. One on one discussion or revisiting this topic in future.
+Cristian Adamo: I mean, again, it's it's really difficult to to create anything and more when you deal with teams that work in a completely different way.
+Juan Carlos Quintero: Like, two years is something like a lot or maybe maybe more, I guess.
+Andrew McVeigh: How are you?
+Balki Kodarapu: Session would be awesome.
+Juan Carlos Quintero: I'm not I'm not sure because I haven't I haven't been bar since then.
+Balki Kodarapu: Thank you so much.
+Cristian Adamo: I mean, some teams work agile, some of those don't.
+Balki Kodarapu: Thank you all.
+Andrew McVeigh: Oh, that's that's alright.
+Cristian Adamo: So it's, like, creating synchronization between teams really difficult even.
+Andrew McVeigh: Yeah. We're just waiting for we we usually give, you know, a few minutes just to quickly just touch base with everyone, and then we'll start in, like, maybe two or three minutes.
+Juan Carlos Quintero: But what we want to do is more like similar to what you put in some of the of the slides like building more like a platform where it's extensible, where we can put more, more like a stand alone thing.
+Cristian Adamo: So, yeah, you need to take a lot of considerations while you're working with others.
+Andrew McVeigh: Where where are you calling from? Okay. So it so what?
+Juan Carlos Quintero: To get to that, like, we need to do some some some decisions of of, like, what we have now and how we can move there without breaking the the thing.
+Andrew McVeigh: 10:00 there at 11:10AM? 11AM.
+Juan Carlos Quintero: So it's it's, like, in terms of technically, like, meaning things that technology choices that that we have right now. And then it's connected to to one of question that I will have, like, if we talk if we could talk about or we will talk about of the mistakes at some point.
+Andrew McVeigh: Where are you located in June? Where are you located?
+Cristian Adamo: Gotcha.
+Andrew McVeigh: Are are you in are you Oh, okay.
+Juan Carlos Quintero: Because, for example, what I see now, but I have I have seen any other other experiences is that you you get a Meaning, like, one one mistake that you mentioned is, like, avoiding the the the how how do you call it, like, the hierarchy.
+Andrew McVeigh: Okay. Are you still coming up to San Francisco every week? And the company got got my apartment up there and stuff like that, but it's so ignored again. Like, it was just I thought it wouldn't take be that bad, but it was really, really tiring.
+Juan Carlos Quintero: So sometimes, like, it's not high, but you see, like, a technology, like, either language or framework or something some system is is declining in terms of, like, performance or popularity or something like that.
+Andrew McVeigh: Let's give another two another minute and then we'll start.
+Juan Carlos Quintero: And then you feel like you need to you need you need to take a decision because this this thing is, like, slowly going down. And then you feel like if you stay there, it it might hurt you at in the long run.
+Andrew McVeigh: How have you found living in is it Denmark? Are you living in return?
+Juan Carlos Quintero: So it's like how the USS whether to change something that is not not serving you as as the best as it used to be or stick to it and then drive the the wave of changes and things and yeah.
+Andrew McVeigh: Oh, it's it's disappeared.
+Juan Carlos Quintero: That that's one thing that I see on my on my team right now.
+Andrew McVeigh: I used to work with Ricardo in the right game. So I'm not sure where he's gone. I'm sure he'll come back soon enough.
+Juan Carlos Quintero: Yeah.
+Andrew McVeigh: But what happened to you becoming disappeared? Can you guys still hear me okay? Ricardo, are you are you gonna hear us? You're having problems with your Internet? I'm gonna I'm gonna stop. Hey, everyone.
+Juan Carlos Quintero: Yeah.
+Andrew McVeigh: Nice to meet you all.
+Juan Carlos Quintero: Sure. Makes sense.
+Andrew McVeigh: I good to see you here.
+Juan Carlos Quintero: But yeah. I mean, overall, like, I think it was quite quite very, very helpful session already.
+Andrew McVeigh: As you probably know, my name is Andrew McVey. I've been acting as a technical architect for probably last twenty five years or so.
+Juan Carlos Quintero: So yeah. Thanks, Ale.
+Andrew McVeigh: It's a longer than I ever wanna think about at this point. But, you know, like most like many people who have moved into sort of technical architecture work here, fall into it partly because you like it, but also partly because you know that the company needs different direction.
+Juan Carlos Quintero: Thank you.
+Andrew McVeigh: And what you'll find is a lot of the time that the that that need is so strong like a often like an architecture to getting the direction right when you're driving a car.
+Juan Carlos Quintero: That's great. Thanks.
+Andrew McVeigh: Right? If you get the direction wrong, you can drive as fast as you want. But it's going to be a really bad experience because you probably be getting further and further away from where you actually need to go.
+Juan Carlos Quintero: Bye bye.
+Andrew McVeigh: But you get the direction right, and you power in the right direction, you can achieve amazing things.
+Juan Carlos Quintero: Thank you. Bye bye.
+Andrew McVeigh: So with that in mind, I'm gonna start the presentation. I don't have time to do introductions during the presentation, but I'll start the presentation going, and we'll see Let's can can everyone say that okay? You can see the screen, I think. Good. Let me just move some stuff over so that I can see it better. Got a couple of screens here. Okey dokey. Still see that? Yep. Okay. Let me go back to the start then. I'll run that one. So the focus today is on and and these sessions is creating a technical vision that lasts, and it's simultaneously simple and really hard. So let's see what I mean as we go through it. So a tiny bit about me. I'll talk a little bit about some other places I've worked, which I'll be referring to during the sessions. Then we'll branch into an introduction of of people here and we'll break out of the presentation, just go to a a view of all of the people, and we'll we'll talk give you a chance to talk about where you're from and what you're looking to get out of the course. And, also, keep keep it to about a minute, if you can. So because we've only got now today. So we wanna keep the introduction sort of whoops. Wanna keep the introductions around fifteen minutes. Then I'm gonna talk about the core parts of a technical direction. There's basically five key components that you need to be aware of. Then I'll extend on those, and then I'll talk about some classic mistakes that I've seen repeated so many times at this point. I every time I see it, I just like, oh, I'm not a kitten. And and I'll I'll just do two case studies. Obviously, we don't have a lot of time today to dive too deep, but I'll just give you some examples. So a little bit about me, some places I worked fighting many, but now these are some of them. So when I moved to I I was born in Australia, And I moved to London in ninety eight, and I've got a job at a company called LCH Cleanet, which is a a clearinghouse room. Literally trillions of dollars in trades a year for all of the derivative trades in Europe, essentially. And It it was my first example of a large financial company, and it's also the an institutional company in in a sense of it had no competition. It was set up to be clearing all of these trades. No real competition anyway. And that was the first of well, that that was the biggest disaster I've had in my entire career, working on a project at that place, the cost maybe a hundred and fifty million dollars, and we ended up having to write off for tax reasons and describing the source code. So I'll talk about that and what went wrong with that. There's so much you learn from failure. Sometimes you learn more from failure and success. After that, I worked at a company which got a contract with American Express, and I became the back end architect for the first version of the American Express blue card, and that that went really well. We did a lot of component design and stuff like that. That led inadvertently to me doing a PhD in software extensibility, which I finished in two thousand and nine. Went on to work in the investment banking sector. I was working there right through two thousand eight, the big market crash and stuff like that. And so I got to see how architecture and technical direction work across a company of ten thousand people, which was fascinating. Moved over to America. I've done a job with Roy James. Worked on a number of things there, and I'll refer to some of the stuff hugely fun experience. Lot of interesting stuff there. Multiply are sort of at a level of, you know, ten million sort of current sort of current connections and stuff like that in a hundred and fifty million players. After leaving the right games, got contacted by Huddl, and they asked me to basically join as the lead architect. They've lost a bit of control of their architecture now trying to do the live TV stuff. That was a fun two years. Moved up to San Francisco. Worked in a company called LiveRamp. And that was an interesting one. I'll I'll go a bit more about that later, but then I moved to Savona, which is a clinical trial company, which is where I'm at currently. So that's I I got asked by the ex chief product officer of LiveRamp. He he moved to Soloma, and he ramped me up and said come along and and help me with this new company. So that's me, essentially. Along career, but hopefully, it's still got a bit more lift. Gets as as you see from the classic mistakes when I talk about them, sometimes I I see the same thing over and over again when it gets started. Anyway, with that in mind, like, how about we get around the table and do a quick set of introductions, and and just find out where where everyone is, what what they care about, what sort of things they're working on. How about we just do it in order to work out? Do you wanna go first? Cool. And and what what term does Gorgeous do? Is that exactly Gorgeous? Okay. Cool. Okay. And, hopefully, we'll get a chance to dive a bit more into each of the different challenges related to different companies as we go along. SIPrian? Thank you. Thanks for one call. Okay. Cool. Okay. Thank you. Do you wanna go, Julian, or do you want us to skip? Okay. Thanks, Julian. I love Playtech, by the way. I I get up really well with Quang and have have worked with them for a few years. Hey, David. How are you I I know David that's from through a friend. We we've spoken already. Yeah. I I I think Cameron as well. Like, Lawrence was saying that that Chamberlain powers on, like, eighty percent of DeFi activity. So then there's a sort of lot of work going on there. Cool. Thanks, sir. That's great. Hey, Pablo. Yeah. No. Look. I love front end stuff. Like, I didn't used to love it because I find JavaScript to be random times, but I love TypeScript. So I got right into it through TypeScript and React. And I just as I dive into it, it it's it's a quite an interesting investment. Well, so I've come the office away from back end going into front end. But some of the front end stuff I've seen recently is this Lord of my morning to Thanks thanks, Pablo, Vishan. Cool. Thank you. Mark? So, like, where were you originally from in England? I I I lived in 07:19 Kent for fifteen years. Okay. Yeah. Yeah. Yeah. You got you got ready. You know the accent as well. Hey. Thanks, Mark. Kristian? You're you're calling from Argentine. Is that right? Yeah. Cool. Thanks. Yeah. I mean, you're working at a very very large place. So I had a welcome I have worked in banks in London. The largest I've worked at is, like, maybe twenty thousand people. But the the dynamics across the very large place, so often different from a a smaller place. So it's there's usually a lot of inertia and stuff like that. Thanks for that. Hey, Ricardo. I used to work with Ricardo. Have you fixed up your internet problem now? Yeah. Thanks for that. Like avocado is a fantastic engineering role at games where you had a lot of stories and a lot of fun there. And we'll probably I I'm gonna talk about some of the stuff in the right games, and he can sort of weigh in on whether it's accurate or not. Thanks a lot. Hey, Joanna. How are you? Thank you. That's good to see. Dheeraj? I won't I won't I won't I won't I won't I won't Yeah. No. That makes sense. Yeah. The conflict resolution part is really important. We'll talk more on that later. Thanks a lot. Philly? Oh, cool. Thanks. Where whereabouts are you going from from the south of the front, did you say? Oh, I didn't know. It's a lot better. Thanks, man. And last little bulking. Did I say that what? Yep. Yep. Cool. Yeah. That's that's excellent. Thanks a lot. Thanks everyone for the introduction. Super diverse set here, which is really exciting as well, like a lot of different experiences, a lot of different sort of size of the companies, different different locations in the world. So that in mind, I'm gonna start into the main content. And one one of the things I would say as well and it's one of the curious things about me is Please please just give me honest feedback if you see stuff, if you like, see stuff. You don't like, you want stuff. We don't focus more on other bits. So So it's like and and this is just a this is actually a strength. People have no problems telling me really harsh things to my face as well. Like, for instance, it ride games, people come on to be good. The thing you're doing is you're shit, and I'm like, okay, tell me more. And and we'll talk a bit about that. Like, how to use really hard feedback to your advantage. So with anyone, let me re share and move on to nursons. And and fine tune it. So it runs okay for that. They can see it okay? Okay. Cool. So I I went to all of the comments that you put when you joined the class, and I'll leave this slide for reference, but I'll I'll be going back to each of these points. These are the points that each of you raised or my attempt to summarize points you raised, like getting alignment across multiple cross function stakeholders, social aspects, how to get champions rather than anniversaries, how to move beyond great concepts and ideas. Going all the way into things like, you know, how do you handle a product versus a project balance? How to get people to take a tech direction seriously. And then there was a very specific one, but it's something of where we've got a lot single tenant evolving to multi tenant. So all of these are relevant. There's there's lots of different categories of things in here. And as we go through, I'll I'll try to refer back to these just so that I can keep the course relevant to what you guys actually care about. So what's the core aspects of a technical vision? Well, as it turns out and then this is just one main thing. This is my view having worked in this area for a while. There's essentially five different parts of a technical vision. You gotta get the macro parts of this right. There's a lot of mistakes to be made, which can throw off the checks and balances in this one. And looking at this as a whole, right, you've got on the right, you've got the product vision And the product vision is typically the business driver of your company, and it determines so someone's thought about this really hard. He's probably the CEO or someone or their head. A business development. They're like, this is where we wanna take the product. This is where we see it going in the market. It it hopefully is correct or hopefully is something that is gonna push the company forward. But based on that, you construct the North Star architecture. That North Star has to be able ambitious enough to actually link people excited, but it also has to be realizable. And the top here, you can see incrementing safely to the gold star. Right? How I define it to how I characterize it to people is that the North Star is, you know, is the big movie. So exciting movie, and and you're really excited about it. And it's, like, got a Hollywood budget, and it's gonna be amazing. And incrementing safely to the North Star is making sure you drive carefully, you work every day so you don't wrap your car around the tree, and you can't make them with me. So the North Flastian ambitious has to make people say, well, what are visionary? The incrementing safely to the North Star has to be done in a way where you add value every time and you also reduce the risk. It's sometimes, it will I find it really important to define both of these in concert because I'll often adjust it or start based on what I think the company can do. And more on that a bit later, then there's two key parts here, which is on the left hand side, you got honest feedback. You wanna always get honest feedback. Right? People will tell you what you need to be doing if you listen Right? If you sit down with enough people in our room, they'll tell you what they need to do what you need to be doing. But they'll tell you often in the both ways. They'll tell you sometimes in any ways, but you can collect it as unless you know how to filter out the personal sort of attacks and stuff like that. And architecture seems to I I used to describe the art of architecture as the art of being gently hinted. But I think it's super important. You've gotta keep buy in at all stages, and buy in has to work up as well as down. You've gotta keep people above you, who your executive sponsor is happy. And you've gotta keep them involved and understanding the narrative, and you've also gotta get buy in on the the the ground floor, the people who are implementing it, the managers, etcetera. They're gonna understand it, and they've gotta understand how it'll work. So let me just quickly expand on each of these things. Right? So product vision. Look, I I'm a person I believe in product should be first and foremost in the company, and it's typically someone in a big vision. You can participate in this vision. And if you're technically like, sometimes in a technical company, you you have to be a big part of this vision. But there's a gonna be a set of key business drivers. There's gonna be a place where you wanna be. But, like I say, we wanna be the leading SaaS provider of clinical trials in three years time. Like like, that that might be a a big vision that the company is heading towards. Then the North Star One of the things that's amazing, and you probably notice is you probably got ninety to ninety five percent of the answers in front of you already. The company will collectively know what it needs. It just doesn't necessarily know how to articulate it, and this is where synthesis is so important. I'm working together as the chief architect. It's a very powerful, very complex clinical trial product. I'm not an expert in clinical trial, but the people who work with me are. And so I synthesize really well around that, and that works really well. Clear problem that I see with a lot of people is I don't solve for the right problems. Really important to identify and articulate what the actual problems you're solving for you get that right, and a lot of other things fall into place. As you progress with the North Star, what you what you should be noticing as you tell and retail the story of the North Star room and get that narrative right, the themes that the North Star is based around should become bigger and bolder over time. To the point where they always become cliche and people like, yes. Okay. I completely understand we are making our system to do this. And so I often refer to this that it feels to me a bit like when I work at a company, the theme start off as a giant pool. And then eventually, they just surfaces these large balloons that rise out of that sort of primary liquid and And those those balloons just get larger and more well formed as you get a good old star. The last thing I wanna mention here is I'll often construct a North Star architecture around the company's strengths. Some companies are going to, and they've got a phenomenal engineering velocity, and they've been working at speed for a long time. And you can be maybe a bit more ambitious. Other companies have to be careful. It might have a slightly uneven technical landscape. And so You wanna construct it a little bit around that. So as I mentioned, it's really important to start having a view on how you increment towards the North Star, that is believable. If you can convince people that it's achievable, they'll work really hard, the North Star. If, however, they don't believe it's achievable, they just zone out. It's just a classic attribute of human behavior that they've got to believe that This is achievable before they're gonna invest a lot of time in it. So one of the rules I have of increments increments towards the north star is that each increment must add value. You never wanna go back. You never wanna say, oh, we're doing this, and it's gonna take his ages, and by the end of it, you'll have exactly the same thing he had before. You wanna avoid doing things aside projects. What you really wanna do is you wanna get the program management side of the company fully invested in the technical transformation and you want to get them basically scheduling the work as part of the team's down job. Doing stuff on the side it's okay. You can do a proof of concept. You can do a spike or something like that. You can inject stuff in, but it tends to not produce the results you need. Right? You you want everyone doing the work for you. So for instance, I I work with the VP of engineering, and she's very good enough. I convince her, oh, this is where we need to go with. This is your way to happen, and And you know you've got a success when you hear your words coming out of other people's mouths like, oh, this is an old style. We need the full SaaS approach for this particular product, and we're doing it in this way. So that leads to the final thing, which is the job of setting up an incremental approach you don't have to be responsible for the full delivery of it. You just have to make it completely inevitable that this is the right direction. And if we keep proceeding in this direction, will get success. You wanna set the forces in motion such that other people take it over and end up doing the work properly. For you that because you can't develop everything. Right? So we wanted to make it in every rule. Well, essentially, you want is an every project you know, to get this on every single project after about a year, year and a half. They're like, we're not getting the results. We want what do we do? You want them to look at it and say, well, we're on completely in the right path, we're just not pushing hard enough. You want them to get to that point rather than, you know, a year and a half, they look at it and go why aren't we getting the results in one of the oh, we've got the wrong strategy. And so related to that, you need honest feedback all the time. And you need to take that feedback into account, learn how to pause it and turn it from sometimes there can be a personal attack. You know? You you guys don't know what you're doing. You're doing a terrible thing. Explain to me why. Tell me give me some reasons why. Let me understand whether or not the points you're raising are valid or whether they're just a personal attack in. If you can separate those out, you can do this very powerful place because you can even use anger and hatred to your advantage. You need to be ruthless about what works. Right. There's no room for central room. You can't light your computer. With that in mind, I'll talk you through next week this thing, which I worked on for years. It it I first discovered it back in two thousand and three or so in investment banking where my boss was the head of application architecture of Barclays Capital, a very a reasonably large and aggressive investment banking. The RFC process, RFC stands to request a comment is basically a way to foster transparency and growth in the company. We started using RFCs as well as write downs. I think by the time I left, we had, like, seven hundred of them, which got a bit crazy, but it it was fairly fairly successful. And one of the other things to get honest feedback is skip level one on ones. What I mean by that is, I I might be saving people in the company, but I'll just send down and just find people actually working on the code. And I'll say, I'll look at their code now. I'll come to some conclusion about whether they know what they're talking about now. So is this working or not? And they I I might spend a bit of time with them just getting them to trust me. But essentially, what I'm looking for is that honest feedback. I want them to say and so I I it's a Vodar I that there were any more previous technical strategy, I had to pivot it. But I I went to one guy called John, and I saw he was working on one of the modules or services system. I said, how's it going? And he goes, Really good. Really good. Is that way you wanna hear? I picked up on it. I said, it's not what I wanna hear. I want you to tell me the truth. He goes, you really want the truth. I said, yeah. I really want the truth he goes, it's terrible to a disaster, and that's music to my ears because I wanna understand. Look. So buying is super important as well when more talk about that. You've gotta manage up and manage down. You'll be very careful. So with that in mind, let's look at some classic mistakes that people make. This is in two thousand wow. So I worked in London, clearinghouse, and I'm gonna talk more on that. You know, it'll be after this section is gonna be the first of my case studies, and they decided to rewrite the entire system. It's a system that was developed over thirty years, and they said, we're gonna completely rewrite. It's gonna be amazing. And this is an article that we passed around a few years later, which summarizes so many of the mistakes that we made. So NetScape this is NetScape, basically, decided to completely rewrite to make Firefox. And Firefox is a great product. But NetScape, by not choosing an incremental path, basically lost the entire rounds of market. And they give it over a course of three years. Many of the large cancellations you work on will take three years to to basically finish and this is just a great article if you ever get a chance to read it, and I strongly recommend you do. And so to Sarah, they did it. They lost the browser market by making the single worst strategic mistake that any software can company can make, they decided to rewrite the code from scratch. More on that as we go through. Sometimes it's appropriate to rewrite. Sometimes it's forced on you. Like, you'd write games with the League of Legends game client. But, essentially, you wanna minimize the amount of rewriting you have to do. So that's mistake number one. It's just way too easy to propose something new. Right? That link up there is the link to the that that had that quote, and I just showed. It's way too easy to come into a company. So what you've got now is just completely wrong. It may have been good in the past, but now it's bad. We're gonna rerun everything. And this is a a very common phenomenon in investment banking, and you trade head head trader comes in, say, for the fixed income desk, and this is I'm gonna bring in a new team. They're gonna rewrite all of our trading systems and our risk management systems, and it's gonna be amazing. Princidence in the Royal Bank Academy, they brought in they had exactly technical and you had a fixed income in. He brought in a new technical lead for the head of fixed income. And they proposed actually proposed a system called Hollywood, and then they called it Hollywood. Right? And it had a Hollywood budget. It was just massive and is very exciting and stuff like that. And you've been away with it for three years. Right? And it will end horribly ninety nine percent of the time because it starts off on they want super exciting. We're gonna remake everything. But it's like trying to outrun on moving train because someone has to keep the existing systems running it up today because you can't lose your market. And you're trying to meet those features. Sometimes on you're trying to meet the features of a of a system that might be thirty years old in financial services. So this this approach really works. Now mistake number two is related to the rewrite. Which is where you say, okay. We're gonna rewrite everything. We've got this whole new team in place. We're gonna bring them in their heavy hitters. All you guys who work on systems currently run the company and loses, we're gonna call you the legacy team. And and this is a phenomenon I've seen way too many times. You really wanna avoid that. Right? And I've been in this situation in two thousand and two with the London clearinghouse. I was one of the Golden Gods. You know? People I'd walk around when people would fake me as, oh, you're one of the people who work on the new system. Really bad, anti pattern. Right? And the the challenge is you've essentially got a group of people already at the company who've built the company up and are running it. Right? They had this problem with promoters. One way, they had someone back a few years ago coming and proposed a complete rewrite on the system. And they actually called the existing people and built out the very, very well established business. They called them the legacy team, and And so it doesn't feel good. Right? No one really wants it. It's it's insane when you realize the legacy team. I haven't to support the business, and they built the business. I've never had to support it for three plus years while the new team tried to replace it. I've rarely seen this being successful. The complete rewrite. But state number three is a pretty obvious one. It's the hype trap. You know, falling for current trends. Right? Let's make everything on, like, Brazil's let's in in the past in in investment banking was like, let's redo everything around FP, ML, EGB and SCOR. Right? Take your pictures. Dozens of different things that you get buffering by these things all the time. Right? And so for a good technologist, all these new things, these new products, these new technical approaches and stuff, they're a toolbox. Not a silver bullet. And so you've got to look at it and regard it as something that can help or not, but it has to be analyzed in terms of solving the problems you actually have. The step number four is not managing up, not keeping your executive stakeholders informed and excited. They're gonna understand the narrative of what you're proposing They've got to understand the costs of getting there. They've got to understand the benefits they're getting out of it. And they can easily cancel your project. Right? We've all seen it, right, where a VP comes either because I don't understand this. I don't like it. I'm curious. Right? You go, but it's great, but I but they didn't understand it or they didn't want to. You can have a situation where you can even deliver, and if you don't manage up correctly, they can actually limit your options Alternatively, they can say, well, I like this direction. I want it, and they can push really hard on it. So you need to ensure that the executive stakeholders get their information direct not via intermediaries. One of the big mistakes we made in right games was we allowed intermediaries to deliver the information to the chief technical officer in the business suite. It's a a massive problem because they can put their own spin on it. And if you get a a a toxic person in that way, they can literally be saying something like, oh, these clouds are not doing the job properly. They'll get it done because I'm helping them and eventually will give it out, but then you need to get rid of them. So you need to craft the messaging update specifically for execs. You need to treat people senior people who are your sponsors happy. A lot of people, as engineers, they hate the idea of managing up. They hate the idea that, oh, I need to impresses people. And the truth is, though, that you do it because these people have the ability to construct the success situation for your technical projects. The state number five is not managing down. Now you've gotta get allies and you've gotta get people to buy in. You gotta socialize your vision with the people that are using it and the people that are implementing it because you need them. So you need to talk to your biggest critics. And use those tech use the technique of just depersonalize again to understand whether or not they're attacking you, in which case you can turn that away or whether they're attacking the approach of a project. You need to talk to insightful people. They live all over the org. Right? You'll find something from the the biggest suggestion developer, and they'll say something like, oh, this one's worth because of blah, and you're like, oh, wow. I didn't even think of that. And Hundred percent, make sure that you talk to people who create and maintain the existing systems. Right? I probably shouldn't have put it this way, creating the previous systems because In a large organization, you're literally dealing with thousands of systems and you've got to construct a technical approach that works with them and you've gotta keep these people happy. And so the aim is always to get honest feedback even as you share the vision. And I wouldn't say that people never miss an opportunity to the describe and redescribe and redescribe again your technical vision. Very, very useful because as you redescribe it, you should be making it clearer and clearer every time to the point where it becomes simpler in those big balloons. I talked about those big themes become really, really obvious. The state number six is just the classic when I see this again and again. You're like, this is our technical application. Like, what problems are you solving for? Oh, we just thought it was better to make it newer. It's like, that's a terrible reason. Right? It's far too common to solve a different set of problems. And you gotta look at what the company phones actually are. Right? The real problem sometimes cannot be known. Like, people like, oh, I don't actually think there is a problem. Sometimes the real problems are too hard or boring, and sometimes it will come to quite deep domain knowledge. I'm a classic one for falling for the third one where I'm not a big domain expert in pretty much anything. The first time for instance I I've been calling for two years as a chief architect, and he's the first company ever worked in video, but they brought me in for a reason And that reason was not because I had deep domain knowledge in video. It's because and you had a structure, technical work to make it successful. So you've got to rely on the domain experts if you're not one and dig in deep end. And to my failing, right, I often just let the domain knowledge slide, but I I need to always keep reminding myself about that. But state number seven, remember I said you need an incremental strategy going forward. Each of those increments should deliver value in their own right so that people look at and go, well, I don't believe in the technical vision, but, hey, this is still adding value. But the is is notorious that what happens is you'll start a technical vision a technical program that will. And The company will change halfway on the June, and then they'll they'll have something like on a a large client who's requested this feature. And so you you pivot the entire company to do that feature, but what you really want them to do is pivot back again when they've done that feature. You want this to be so compelling and so incrementally advancing that there's no reason to kill it. Mastaka number eight is thinking that they're not starting to come up with the aesthetic. But it's just a point in time, and you revisit it periodically. And you have a story around how you revisit it and why you've revisited it. And that narrative story is extremely powerful in these situations where Yes. We did make this architecture to be full SaaS in this way. And then as we dive into the system, we realized There there were some problems with making multi tenant this way, so we adopted a different approach. And this is now our approach we're taking to get the same effect, but we've learned from the, again, the the current situation. So I'm gonna talk in, I think, sessions three and four on when to pivot When to actually say, you're right, we do need to change this little star. And other times, I'm gonna talk about when you need to double down, when you need to say no we've gotta stay the course for you guys. If we don't stay the course, then we're gonna be in trouble. So I'm just gonna finish up this one today with a couple of just quick case studies. The case study I talked about earlier is LCH cleanup, the the biggest disaster we've been involved in We wrote off a hundred and fifty million dollars in in software engineering, and we had to do it. We had to actually demonstrate to the text department that we destroyed it. So that they give us the tax credit. So if they didn't wanted to do a complete rewrite, wasn't my idea? Thankfully. But I I came in as a consultant there working for the consultancy that was running the whole project remember this is a very old company in London clearinghouse, LCH cleared that. And they wanted to rewrite ten plus major systems that They developed for risky trains, developed it for thirty years. Right? The idea was to create one configurable generic system And the underlying concept is all financial products can be turned into cash flows. This is absolutely true. Every financial product, eventually, It may involve a physical delivery of products or something, but, essentially, it just turns into a collection of cash flows, and that observation is not enough for them. It was a massive idea, had little validation. So how did they do it? They decided to create new teams from seven consultancies as I said, this is a bit disservice. This is a every single element of the things I'm gonna tell you avoid. They told the existing teams I have a legacy and treated them essentially as stupid. And they said to them, but, oh, why do I keep the business going while we make this new system that's gonna replace you? You can see the the problems with the checks and balances there. Right? Who who wants to be incentivized to do that? So they started training your teams, but, essentially, regarding the struggle again. It's just crazy. Didn't make any sense. And so what did they do wrong? Well, they did a complete rewrite and read that John's philosophy article. Right? So many things can change while you're trying to do this rewrite to keep up with it. It's like trying to jump on a moving train. They didn't solve for incrementality. They could've easily done that. They treated the older teams as legacy idiots. They treated the newer teams too kindly. I was I was treated like a dog. Like, they're very gentle and misdeliverables, and you did anything right now. Of course, you guys are amazing. They fill in to the enterprise the hype tracker and enterprise Java means at the time. It's quite interesting. I was working alongside a guy called Ron Johnson who got so annoyed with it. He he created a a system called Spring, which ended up if you use January or it's quite well known. Even today is the go to where you create systems now. The company didn't validate the idea fully with the domain experts. And once when it was down to me, to actually construct the systems around this core idea. And I was saying to someone gone not an expert at these financial things. Could I get someone to work with me and lower lower it didn't happen. And they didn't listen to the deep concern the deep end concern feedback. I went to wonder well, and I said, how's it going? You're running a report for this risk report. How how does the journey does? You are effectively asking me to do a thirty table join There's no way this is gonna be efficient. And at the time I was part of the big machine, I I didn't take that feedback, and I couldn't do anything with that feedback even if I did. So a lot of things went wrong in that particular case. So this is a case study of right games where I was a technical lead across the ecosystem division, and that maybe was I don't know how many people, maybe a hundred initially, two hundred. Had it, like, twelve teams. And one of the big projects inside the ecosystem division was a complete rewrite of the game client for League of Legend. So this is a game. At the time, it was the largest online and multi play game in the world. Around a hundred and fifty million players, and this is now on a hundred and fifty million plus desktops. That was just one part of it. There was one project out of about four team or so. Very exciting though, but really complex and contentious. So what happened is to former technical vision, I sat down with the head of product, a great guy called Luke, and I said to him, give me the pillars of your technique of your product vision. And he said, well, we wanna make it basically on social platforms so that people could always play and they can contact their friends if they one again. And he said, but we wanted to be open an extensible platform. We want all the teams in write downs to be able to contribute to the different components of this so that we're not necessarily the gatekeepers. We wanted to be multiple experience. We wanted to always feel new. And we want to be multichannel. So people can connect on their phones, etcetera. They can then go to the computer and play it again. They could maybe even go to a console, actually. And so this is the pillars of the product vision, and what I'm gonna do is I'm gonna just gradually expand this to get a bigger vision here. And you'll see how useful and interesting it becomes. So the first thing we did and I'm just expanding this is the same thing as before I've just expanded the social platform side. And this is the results of a meeting of one hour, by the way. This is how fast you can do this if someone knows what they're talking about. They said, we want everyone to always have access to gaming community and friends. We want it to be always on. So you can always carry with you the current state of what your friends are doing, and you can see whether or not they want games. Right? Players should never have to lose a gaming opportunity. That means that players don't mind leaving the the game client in the background, and so it should be low resource when it's background. And we want innovative and better ways to organize around the daily experience. So fantastic. That's a really useful set of things. And you can see it's already linking social platform to multichannel. Alright? Plus, you're gonna have to meet you again. Yeah. Opportunity. Okay. That means we're gonna have to do on on phones as well. Now expanding out the open extensible platform side, They wanted a standalone product. That's fine. But they wanted to be self-service for teams to add features to. They wanted to support apps. They wanted to allow people like creative dev, merch, partners, etcetera, to be able to create content inside the platforms. They wanted it to be an awesome experience to feel curated, crafted, and personal. Now expanding out a little bit further, you can see this multi you're gonna link now to multi experience. So you're linking open and accessible platforms and multi experience. Now multi experience, basically, should be always always fresh every time you log in something new. It should be game agnostic, but recognize the League of Legends game as primary for now and seamless and discoverable. And then finally on the multichannel side, as we went through all of the drivers, we realized we wanted a desktop application. Our client was called at a time web and mobile. And so you put all that together and you get this map here. This map could pretty much explain everything we did in that department. Now here's the interesting thing about it. If you look back this is probably, like, six years ago now. If you look back at the the what were you achieved and stuff. You would say, well, some of them was successful, some of them wasn't. Because things changed, they didn't really wanna open an extensible platform. They were happy not to have that fully. So some of the things we did didn't get done. Right? The leadership product leadership change And so they sort of downplayed some of the directions that that we'd wanted to take it in. But, essentially, it delivered on the core aspects of what we're looking for even though the North Star changed, one of the things that we did were still very relevant, and and the application that we all created, the Ricardo was on The the lead client update is essentially on a hundred and fifty plus hundred and fifty million plus machines to the States, it still forms the core experience. So that's even a nutshell so far. What to expect in the next few sessions. So next week and let's sorry. In two weeks time, March twenty seventh, I'm gonna talk about techniques for creating or fixing a technical vision, and I'll go to a few examples. And I'll try and link it back to those list of points that you guys raised. I'm gonna talk next after that about when to pivot and cut losses, when to work out whether or not The feedback is actually good, and you should take it into account or whether, in fact, you should just double down and say, well, I've heard your feedback, but respectively, we're gonna carry on in our direction. And then on the fifth session, we'll do offers as a discussion. So that's it for this week. I hope that's been helpful in some way. Feel free to message me. I I love feedback. So message me with anything like I I didn't mind it, but I wish you'd focus more on this or will you be talking about this particular stuff that we care about? So and I I can stick around for fifteen minutes or, but I realized that most people probably have a a time limit. So, yeah, open it up to you guys. One one of the things that Mike was starting with is Ricardo was one of the skip levels on on League of Legend stuff. And so he was someone I'd go to and say, well, is he's working if he's not and you should give it a fairly, unvarnest, very honest opinion about it. What what are interesting things about right again is this is very political internally. There's a a lot of strong characters, and they've each got their own agendas and stuff like that. I I haven't thought more about the league of the the LCU experience as we go along when I talk about doubling down on stuff like that and going to pivot. There's a lot of complexity in that. I mean, you're we were essentially forced to do a rewrite. The platform that they built the game client on was Adobe Air and Adobe and Avaya, and we're building zero day security for and you can imagine on the games because League of Legends. Everyone's trying to rip it off. Everyone's trying to hack into it. They're trying to make new downloads and box and stuff. They're trying to get into the company accounts to see how much money they're spending. They're trying to look at the new artwork and stuff like that. We didn't sell me x. But to bring in the FBI at one point, one of the x was super bad. So how do you find the right game stuff affects what you do more than what I know, Ricardo. Yeah. We went from AT and T's up to eight hundred in, like, maybe three years time, and it was really quite interesting to see what's scaled and what didn't. So that was quite exciting. Christian, you you work across a very large bank. How do you manage your stakeholders, and how do you find out who they are? Yeah. Yeah. Well, the core the the template that we use for RFCs and raw was actually I stole it from my Boston Barclays Capital where they they used to they called it architect to check a definition I literally stole their headlines from it and put it in their document. My boss his his name was Mark because he was the head of application architecture. Literally, that bank at the time was Very small. There's only ten thousand people. I laugh when I say that because I I know that I think JP Morgan is, like, three hundred thousand or something like that. But I I worked in retail and they worked for a while as well, and I saw some of those incredibly slow forces like We need to replace our general ledger system. It's running on OS 03:60, but IBM has a contract where they think they can keep it running for another ten years. That type of thing. I mean, it sounds like you're you're in a transformational type role. Right? And a lot of the challenge with that is going to be the fact that a lot of other teams will see what you are asking them to do as an in position. Because you're gonna be going you need to make this change so we can make this change somewhere else, and they're like, I we've got our own drugs. We've got a loan origination origination system, we don't wanna have to change it for what you were talking about. So that that becomes really hard then to make sure that you get the right stakeholders in alignment so they're brought in. Yeah. You've got a whole world of parameters, which a lot of com a lot of people in smaller companies don't have to do it. I'm laughing because I just think back at the sort of things. Like, when I was at Barclays, retail lead, And they've done this about five years before. They sold the entire IT department to to a consultancy. And so we could go around and say, well, we need to change the system where we have to construct the change order. It costs fifty thousand lines to get a small accessibility change on the front page of the bank. So this oh, it's all well, we should probably talk, actually, and and then let chat up to this talk separately as well because this so many parameters to that one. What about you guys are gorgeous? Like, what are some of the challenges you're facing? Hi. Yeah. Yeah. Yeah. Yeah. No. That makes sense. Yeah. I mean, it's a it's a challenge to try and craft material experience. Three hundred thousand person retail sort of empire to this whole thing. We'll we'll try it next week. I I I expect that what what I'm looking for you guys for from you guys is a level of feedback on whether or not I'm hitting the right notes. There's a lot of stuff in here. Some of these are a world in their own right. So necessity dictates because of the timing and of the dictionary will be done Yeah. I mean, I I've got a lot of stuff, so it's it's not it's a case if you if you just say, well, we are particularly interested in this part. So we'll we'll carry on and can always I can always supplement it by meeting with you guys individually as well. I think the maybe meeting of the gorgeous engineers might be useful also. I'll I'll reach out to you guys as we go. Alright. Well, thanks, everyone. Thanks for for putting up with me for this weekend. Well, it it actually went pretty smoothly. I'm not too worried about it, but really, really great to see you all, and thank you for sharing your stories. Yeah. Sure. Yeah. Sure. Yeah. Yeah. Yep. Yep. Yeah. I mean, I've I've had to do this a lot too. But the first thing to note is that if all being existing systems never bother, So people biased towards what's exciting. Right? I love making new things. Right? Everyone does. Right? It's really horrible working on all things because gonna get inside someone else's mental model. So there's always that bias and play even with really smart people. And sometimes more so smart people because they construct a whole world of things in the head. They they know what they want, and they don't really wanna go looking elsewhere for it. What do you typically wanna do is focus on what problem they're solving, and could be take debt or whatever. And I need to have a session talking about take debt because you've got to accompany any fix of tech debt with additional value. The absolutely wrong thing to do is say, We've got tech there. We need to pause everything for six months while we fix it up. Never works. Never works. You might make it a bit better. You scared out a rabbit hole. And I had a classic example in Roheb where we were able to rewrite a lot of the systems but deliver significant value at the same time. The second thing is you wanna reduce the size of the rewrite to as small as possible. In some ways, in in some cases, you can actually do things by internally modularizing. So so so you're talking about a large application, and then why would we hate it? It's really impossible to maintain. So you look internally at the architecture to inside the application saying, well, can we sequester? Can we segment away and isolate a little bit of a badness? And so we don't have to rewrite the whole lot. And and then you you shrink the amount you need to rewrite to a small and small space until you say, okay. We might need to rewrite that. But we're gonna rewrite it, and we're gonna finish it in, like, a month or two. Yeah. The longer these things go, the harder it's thanks again. Yeah. There's a so you're just gonna get back to the basics. What problem are you solving for? What are your biases that are causing you to go in one direction, Alan? Can you deliver value even as you rewrite this and change it, and can you minimize the size of the blast radius of the rewrite? I don't know if that did you hear because your your Internet with VoIP going to be in and out Okay. Yeah. I'll I'll reach out to you as well. No. I haven't done it. I I know Quang, and he's rebooting the circles, and he said you wanna do a circle so I can sort of join. But the problem like most of you is probably well, with me, and it's probably like most of you is I'm sort of maxed out ninety nine percent of the time with people screaming at people are current work, which is, how fast are you? Alright. Yep. Yep. Absolutely. Alright. Thanks a lot. It's great to see you.
